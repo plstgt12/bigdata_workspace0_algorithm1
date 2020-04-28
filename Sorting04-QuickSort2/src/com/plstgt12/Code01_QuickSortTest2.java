@@ -27,7 +27,7 @@ package com.plstgt12;
  * 五、快速排序是不稳定的
  *    比如序列[5, 3A, 6, 3B]，经过第一轮快速排序后会变为[3B, 3A, 6, 5]，说明快速排序是不稳定的。
  */
-public class QuickSortTest2 {
+public class Code01_QuickSortTest2 {
 
     public static void main(String[] args) {
         //排序前的数组
